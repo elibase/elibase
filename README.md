@@ -6,12 +6,20 @@ I enjoy building practical software projects, learning new technologies, and sol
 
 📍 I'm based in Ontario, Canada
 
-## Langauges & Frameworks that I use
-C#, Python, JavaScript, React.js, .NET Framework, Express.js, Microsoft Azure, Git, and SQL 
+## languages & Frameworks
+some notable languages, frameworks and tools that I use
+- C#
+- Python
+- JavaScript
+- React.js
+- .NET Framework
+- Express.js
+- Microsoft Azure
+- SQL 
 
 ## Featured Projects
 Check out my pinned repositories below to view live demos, source code, and project details.  
-You can also visit my portfolio website for a more in-depth look at my work and experience.
+You can also visit my [portfolio website](https://elibase.github.io/portfolio/) for a more in-depth look at my work and experience.
 
 ## Contact ✉️  
 Feel free contact me at
