@@ -8,14 +8,10 @@ I enjoy building practical software projects, learning new technologies, and sol
 
 ## languages & Frameworks
 some notable languages, frameworks and tools that I use
-- C#
-- Python
-- JavaScript
-- React.js
-- .NET Framework
-- Express.js
-- Microsoft Azure
-- SQL 
+- C#, Python, JavaScript
+- ASP.NET Core, FastAPI, Node.js
+- React.js, Angular
+- Microsoft Azure, Microsoft SQL Server
 
 ## Featured Projects
 Check out my pinned repositories below to view live demos, source code, and project details.  
