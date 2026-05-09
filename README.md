@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**elibase/elibase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eli Baseke a computer science student & Full Stack Software Developer
 
-Here are some ideas to get you started:
+I enjoy building practical software projects, learning new technologies, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 I'm based in Ontario, Canada
+
+## Langauges & Frameworks that I use
+C#, Python, JavaScript, React.js, .NET Framework, Express.js, Microsoft Azure, Git, and SQL 
+
+## Featured Projects
+Check out my pinned repositories, source code, and project details.  
+You can also visit my portfolio website for a more in-depth look at my work and experience.
+
+## Contact ✉️  
+Feel free contact me at
+- [linkedin.com/in/elibaseke](https://www.linkedin.com/in/elibaseke)
+- [etbaseke@gmail.com](mailto:etbaseke@gmail.com)
+- [portfolio](https://elibase.github.io/portfolio/)
+
+
+
