@@ -10,7 +10,7 @@ I enjoy building practical software projects, learning new technologies, and sol
 C#, Python, JavaScript, React.js, .NET Framework, Express.js, Microsoft Azure, Git, and SQL 
 
 ## Featured Projects
-Check out my pinned repositories, source code, and project details.  
+Check out my pinned repositories below to view live demos, source code, and project details.  
 You can also visit my portfolio website for a more in-depth look at my work and experience.
 
 ## Contact ✉️  
