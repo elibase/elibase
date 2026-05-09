@@ -7,7 +7,7 @@ I enjoy building practical software projects, learning new technologies, and sol
 📍 I'm based in Ontario, Canada
 
 ## languages & Frameworks
-some notable languages, frameworks and tools that I use
+Some notable languages, frameworks and tools that I use
 - C#, Python, JavaScript
 - ASP.NET Core, FastAPI, Node.js
 - React.js, Angular
