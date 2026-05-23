@@ -15,7 +15,7 @@ Some notable languages, frameworks and tools that I use
 
 ## Featured Projects
 Check out my pinned repositories below to view live demos, source code, and project details.  
-You can also visit my [portfolio website](https://elibase.github.io/portfolio/) for a more in-depth look at my work and experience.
+You can also visit my [portfolio website](https://portfolio-mu-seven-ggrxy6e2ah.vercel.app/) for a more in-depth look at my work and experience.
 
 ## Contact ✉️  
 Feel free contact me at
